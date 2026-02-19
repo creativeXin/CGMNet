@@ -17,9 +17,11 @@ torchaudio = 0.13.1
 
 ## 📁 Data Preparation
 
-The HZB dataset can be downloaded from [BaiduNetdisk](https://pan.baidu.com/s/16wYNHF85f1z3EvtKEfaRWg?pwd=m74x).
+The HZB dataset can be downloaded from **Baidu Netdisk**:  
+- Link: https://pan.baidu.com/s/16wYNHF85f1z3EvtKEfaRWg?pwd=m74x  
+- Extraction code: `m74x`
 
-Please place the files under the `dataset/HZB/` directory in the project root:
+After downloading, place the files under `dataset/HZB/` in the project root:
 
 ```text
 dataset/
@@ -27,8 +29,8 @@ dataset/
     ├── image1_ZY.mat
     ├── image2_ZY.mat
     └── GT_01_400.mat
+```
 
-``` 
 ## 📚 Citation
 
 If you find this project helpful for your research, please kindly consider citing our paper and giving this repo a ⭐:
