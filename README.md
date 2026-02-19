@@ -4,3 +4,4 @@ A hyperspectral coastal wetland change detection dataset for Hangzhou Bay (HZB),
 The source code will be made publicly available soon.
 
 The HZB dataset used in this study is publicly available at the following link: https://pan.baidu.com/s/16wYNHF85f1z3EvtKEfaRWg?pwd=m74x. The extraction code is m74x.
+A detailed description of the dataset and its construction procedure can be found in:https://ieeexplore.ieee.org/document/11393652.
