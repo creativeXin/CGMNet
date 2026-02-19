@@ -1,12 +1,16 @@
 # CGMNet
 
-This repository provides the Hangzhou Bay (HZB) hyperspectral coastal wetland change detection dataset and introduces CGMNet: A Center-Pixel and Gated Mechanism-Based Attention Network for Hyperspectral Change Detection. The source code will be made publicly available soon. A detailed description of the dataset and its construction procedure can be found in: https://ieeexplore.ieee.org/document/11393652.
+This repository provides the Hangzhou Bay (HZB) hyperspectral coastal wetland change detection dataset and introduces CGMNet: A Center-Pixel and Gated Mechanism-Based Attention Network for Hyperspectral Change Detection. 
+
+The source code will be made publicly available soon. 
+
+A detailed description of the dataset and its construction procedure can be found in: https://ieeexplore.ieee.org/document/11393652.
 
 ## 🚀 Getting Started
 
 ### 📦 Installation
 
-We recommend using the following environment: Python 3.8, PyTorch 1.13.1, and torchaudio 0.13.1.
+The experiments in this work were conducted using Python 3.8, PyTorch 1.13.1, and torchaudio 0.13.1.
 
 ## 📁 Data Preparation
 
