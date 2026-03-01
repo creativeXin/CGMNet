@@ -2,6 +2,8 @@
 
 This repository provides the Hangzhou Bay (HZB) hyperspectral coastal wetland change detection dataset and introduces CGMNet: A Center-Pixel and Gated Mechanism-Based Attention Network for Hyperspectral Change Detection. 
 
+For reproducibility, we provide the model checkpoint trained by our implementation on the HZB dataset: https://pan.baidu.com/s/17Johhyy-JsRaMv-fw9g7Yw?pwd=9xnr
+
 A detailed description of the dataset and its construction procedure can be found in: https://ieeexplore.ieee.org/document/11393652.
 
 ## 🚀 Getting Started
