@@ -37,6 +37,5 @@ If you find this project helpful for your research, please kindly consider citin
   volume={35},
   number={},
   pages={1951-1965},
-  keywords={Feature extraction;Convolutional neural networks;Logic gates;Transformers;Sea measurements;Attention mechanisms;Sensor phenomena and characterization;Hyperspectral imaging;Data mining;Noise;Hyperspectral image;change detection;central pixel;gated mechanism;global information},
   doi={10.1109/TIP.2026.3661851}}
 
