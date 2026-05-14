@@ -19,9 +19,9 @@ The HZB dataset can be downloaded from Baidu Netdisk via the following link: [ht
 ```text
 dataset/
 └── HZB/
-    ├── image1_ZY.mat
-    ├── image2_ZY.mat
-    └── GT_01_400.mat
+    ├── T1.mat
+    ├── T2.mat
+    └── GT.mat
 
 ``` 
 ## 📚 Citation
