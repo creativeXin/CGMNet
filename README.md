@@ -14,13 +14,13 @@ The experiments in this work were conducted using Python 3.8, PyTorch 1.13.1, an
 
 ## 📁 Data Preparation
 
-The HZB dataset can be downloaded from Baidu Netdisk via the following link: [https://pan.baidu.com/s/1ENhzPL8AVujs6znFTQvQtQ?pwd=fb4n](https://pan.baidu.com/s/1ENhzPL8AVujs6znFTQvQtQ?pwd=fb4n). The extraction code is `fb4n`. After downloading, place the files under `dataset/HZB/` in the project root directory as follows:
+The HZB dataset can be downloaded from Baidu Netdisk via the following link: [https://pan.baidu.com/s/1xemLAX-4t8OWZicszAknew?pwd=a47q](https://pan.baidu.com/s/1xemLAX-4t8OWZicszAknew?pwd=a47q). The extraction code is `fb4n`. After downloading, place the files under `dataset/HZB/` in the project root directory as follows:
 
 ```text
 dataset/
 └── HZB/
-    ├── T1.mat
-    ├── T2.mat
+    ├── image1_ZY.mat
+    ├── image2_ZY.mat
     └── GT.mat
 
 ``` 
